@@ -290,6 +290,7 @@ print(f"Selesai \n")
 print("CREATED BY: MUHAMMAD HAIKAL MUTHAHHARI")
 print("#ayobayarpajak!")
 
+v = input("Selesai")
 
 
 
