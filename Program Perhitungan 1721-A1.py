@@ -286,8 +286,6 @@ result = hasil_pajak/12
 print(f"Pajak Terutang per Bulan: Rp{result:,.0f} \n")
 print(f"Selesai \n")
 
-
-print("CREATED BY: MUHAMMAD HAIKAL MUTHAHHARI")
 print("#ayobayarpajak!")
 
 v = input("Selesai")
